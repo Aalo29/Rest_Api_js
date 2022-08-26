@@ -8,10 +8,9 @@
         },
         {
             "id": 2,
-            "firstName": "John",
+            "firstName": "Jane",
             "lastName": "Doe",
             "age": 30
-            
         }
     ]
 }
